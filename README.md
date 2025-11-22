@@ -1,5 +1,5 @@
 #### Data-governance-dashboard
-This README provides business-focused analysis, key insights, and metrics definitions for the dashboards included in this repository. The goal is to help hiring managers, recruiters, and collaborators understand your analytical thinking, KPI design, and impact-driven approach as a Business Analyst.
+This README provides business-focused analysis, key insights, and metrics definitions for the dashboard included in this repository. The goal is to help hiring managers, recruiters, and collaborators understand analytical thinking, KPI design, and impact-driven approach as a Business Analyst.
 
 
 #Objective:
