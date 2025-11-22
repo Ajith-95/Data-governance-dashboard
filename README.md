@@ -8,9 +8,13 @@ To monitor data quality, completeness, and reliability across organizational dat
 
 #Key Metrics & KPIs:
 >Data Quality Score (DQS) — Measures the accuracy, completeness, consistency, and validity of datasets.
+
 >Null/Incomplete Data % — Identifies fields with missing values impacting downstream reporting.
+
 >Data Freshness / Refresh SLA — Tracks last refresh timestamp vs required SLA.
+
 >Schema Change Alerts — Highlights structural changes affecting pipelines.
+
 >Ownership Coverage — % of datasets with assigned data owners/stewards.
 
 
@@ -35,5 +39,7 @@ To monitor data quality, completeness, and reliability across organizational dat
 
 #Contact:
 Ajith PS
+
 Business Analyst
+
 Email: psajith28@gmail.com
