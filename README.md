@@ -20,24 +20,32 @@ To monitor data quality, completeness, and reliability across organizational dat
 
 #Insights Provided:
 >Identified high-risk datasets with >20% missing values.
+
 >Highlighted SLA breaches caused by late pipeline refreshes.
+
 >Improved governance by mapping 100% of datasets to responsible owners.
+
 >Reduced errors downstream by flagging schema mismatch patterns.
 
 
 #Business Impact:
 >Ensures reliable reporting for finance, HR, and operations.
+
 >Reduces compliance risk by improving data governance maturity.
+
 >Enhances trust in analytics platforms across departments.
 
 
 #How to Use These Dashboards:
 
 1.Open the .twb / .twbx files using Tableau Desktop or Tableau Public.
+
 2.Review metrics & insights listed above while exploring the dashboard.
+
 3.Use the dashboards to extract business insights and re-run analysis with updated data.
 
 #Contact:
+
 Ajith PS
 
 Business Analyst
